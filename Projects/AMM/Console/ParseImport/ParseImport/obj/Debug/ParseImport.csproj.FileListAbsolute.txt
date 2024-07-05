@@ -1,1 +1,0 @@
-C:\Projects\AMM\Console\ParseImport\ParseImport\bin\Debug\ParseImport.exe.config
