@@ -1,0 +1,21 @@
+sqlcmd -S -d Babel -i C:\SQL\WikipediaSql\Queries\enwiki-20160407-redirect.sql -f 65001
+
+
+sqlcmd -S .\Maracuja -E -d \Wikipedia -i C:\SQL\WikipediaSql\Queries\enwiki-20160407-redirect.sql -f 65001
+
+
+
+
+sqlcmd -S .\sqlent1 -E
+
+
+
+
+
+sqlcmd -S Maracuja\Wikipedia -i C:\SQL\WikipediaSql\Wikipedia Download SQL\enwiki-20160407-redirect.sql
+
+
+
+
+sqlcmd -S Maracuja -d \Wikipedia -i C:\SQL\WikipediaSql\Queries\enwiki-20160407-redirect.sql -f 65001
+
