@@ -1,0 +1,39 @@
+For
+And
+Nor
+But
+Or
+Yet
+So
+
+after
+although
+as
+as long as
+because
+before
+even if
+if
+once
+now that
+since
+though
+unless
+until
+when
+where
+while
+
+both/and
+whether/or
+either/or
+neither/nor
+not/but
+not only/but also
+as/as
+such/that
+scarcely/when
+as many/as
+no sooner/than
+rather/than
+
