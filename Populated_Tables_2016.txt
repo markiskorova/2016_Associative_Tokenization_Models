@@ -1,0 +1,12 @@
+Tables with Populated Data (for ref)
+
+AMM_NodeType
+AMM_ProperToWord
+AMM_Proper
+AMM_ProperToWord_Snap_Count
+AMM_WeightType
+AmmAllProper
+AmmAllTerms
+AmmNewTerms
+AmmImport_Item
+AmmImport_Item2
